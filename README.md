@@ -71,16 +71,16 @@ Here is where you provide the content of your article.  If there are images you 
 
 ### Step 3: Share Your Document
 The basic flow for handling a ticket is as follows:
-1. Create a ticket/issue in our repo that has your submission in it as a link to the document.
-2. Assign it to yourself and label it `Ready For Review` plus the track you think it bellongs to one of `Design`, `Development`, `Data Science`, `Competitive Programming`, `QA` or `Topcoder`.
-3. Your submissing will be reviewed by the track evangelist/copilot.
-4. If review is accepted evangelist/copilot will set its label to `Passed Review`. If review is rejected `Rejected Review` or when there there is feedback for you(mostly evangelist/copilot will give some) `Review Feedback`.
-5. Payments will be processed by project copilot imediatly when ticket/issue reaches `Passed Review` state.
-6. For tickets with label `Review Feedback` you have 12h to handle/update the requested by the copilot in your submission.
+1. Create a ticket/issue in our repo that has your submission in it as an attachment or a link to your document.
+2. Assign it to yourself and label it `Ready For Review` plus the track it belongs to: `Design`, `Development`, `Data Science`, `Competitive Programming`, `QA` or `Topcoder`.
+3. Your submission will be reviewed by a track evangelist and copilot.
+4. If the review is accepted, the evangelist or copilot will set its label to `Passed Review`, if the review is rejected `Rejected Review`, or if there is feedback for you (evangelist or copilot will make a comment in the ticket) `Review Feedback`.
+5. Payments will be processed by the project copilot immediately upon the publishing of the article and the ticket will enter the `Passed Review` state.
+6. For tickets labeled `Review Feedback` you have 12h to handle/update the request by the copilot in your submission.
 
-Members that violate the repo rules will be removed and will lose access to project!
+Members that violate the repo rules will be removed and will lose access to the project!
 
 #### FAQS
 
 __Q: I am not good at english, can I still write an article?__
-__A__: For sure, yes! All we are looking for is your expertise in your field. The article will go through a formal editing process before being published. Feel free to use tools like Grammarly. <br/><br/>
+__A__: For sure, yes! All we are looking for is your expertise in your field. The article will go through a formal editing process before being published. Feel free to use tools like [Grammarly](https://www.grammarly.com/). <br/><br/>
