@@ -75,10 +75,10 @@ The basic flow for handling a ticket is as follows:
 2. Assign it to yourself and label it `Ready For Review` plus the track it belongs to: `Design`, `Development`, `Data Science`, `Competitive Programming`, `QA` or `Topcoder`.
 3. Your submission will be reviewed by a track evangelist and copilot.
 4. If the review is accepted, the evangelist or copilot will set its label to `Passed Review`, if the review is rejected `Rejected Review`, or if there is feedback for you (evangelist or copilot will make a comment in the ticket) `Review Feedback`.
-5. Payments will be processed by the project copilot immediately upon the publishing of the article and the ticket will enter the `Passed Review` state.
+5. Payments will be processed by the project copilot immediately upon the publishing of the article and the ticket will enter the `tcx_FixAccepted` and then finally `tcx_Paid` state.
 6. For tickets labeled `Review Feedback` you have 12h to handle/update the request by the copilot in your submission.
 
-Members that violate the repo rules will be removed and will lose access to the project!
+**Members that violate the repo rules will be removed and will lose access to the project!**
 
 #### FAQS
 
