@@ -4,8 +4,8 @@
 
 ### Step 1: Verify Your Article Is Unique
 - __Take a tour around Thrive in the category that you are planning on writing about to make sure the topic hasn't already been covered.__
-- __Your artcile has to have min 500 words length.__
-- __Article has to pass Plagiarism Check from Grammarly https://www.grammarly.com/plagiarism-checker. It is free for use.__
+- __Your article has to have min 500 words length.__
+- __The article has to pass Plagiarism Check from Grammarly https://www.grammarly.com/plagiarism-checker. It is free for use.__
 
 __Please note that as of November 25, 2019 we are still moving over marathon and competitive programming editorials.__ <br/><br/>
 
