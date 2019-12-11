@@ -3,7 +3,7 @@
 ## How To Get Your Article/Video Published?
 
 ### Step 1: Verify Your Article Is Unique
-- __Take a tour around Thrive in the category that you are planning on writing about to make sure the topic hasn't already been covered.__  <br/><br/>
+- __Take a tour around Thrive in the category that you are planning on writing about to make sure the topic hasn't already been covered.__
 - __Your artcile has to have min 500 words length.__
 - __Article has to pass Plagiarism Check from Grammarly https://www.grammarly.com/plagiarism-checker. It is free for use.__
 
