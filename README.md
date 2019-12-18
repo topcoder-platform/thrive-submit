@@ -79,6 +79,7 @@ The basic flow for handling a ticket is as follows:
 3. If the review is accepted, the evangelist or copilot will set its label to `Passed Review`, if the review is rejected `Rejected Review`, or if there is feedback for you (evangelist or copilot will make a comment in the ticket) `Review Feedback`.
 4. Payments will be processed by the project copilot immediately upon the publishing of the article and the ticket will enter the `tcx_FixAccepted` and then finally `tcx_Paid` state.
 5. For tickets labeled `Review Feedback` you have 12h to handle/update the request by the copilot in your submission.
+6. If you want to reserve a topic for writing on it, you can put [WIP] as a prefix to issue title and submit when ready. No more than 3 active reservations will be allowed per member.
 
 **Members that violate the repo rules will be removed and will lose access to the project!**
 
