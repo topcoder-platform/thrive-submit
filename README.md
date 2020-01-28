@@ -3,7 +3,7 @@
 ## How To Get Your Article/Video Published?
 
 ### Step 1: Verify Your Article Is Unique and not WIP
-- __Take a tour around [Thrive](topcoder.com/thrive) in the category that you are planning on writing about to make sure the topic hasn't already been covered.__
+- __Take a tour around [Thrive](https://topcoder.com/thrive) in the category that you are planning on writing about to make sure the topic hasn't already been covered.__
 - __Check the [issues list](https://github.com/topcoder-platform/thrive-submit/issues) for issues tagged [WIP] which will mean someone else is already working on the topic you want to write about__
 - __Your article has to have min 500 words length.__
 - __The article has to pass Plagiarism Check from Grammarly https://www.grammarly.com/plagiarism-checker. It is free for use.__
