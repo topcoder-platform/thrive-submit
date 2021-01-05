@@ -2,6 +2,8 @@
 
 ## How To Get Your Article/Video Published?
 
+Check the [related article](https://www.topcoder.com/thrive/articles/Submitting%20a%20Thrive%20Article) and this guide for hints how to write and earn with Thrive.
+
 ### Step 1: Verify Your Article Is Unique and not WIP
 - __Take a tour around [Thrive](https://topcoder.com/thrive) in the category that you are planning on writing about to make sure the topic hasn't already been covered.__
 - __Check the [issues list](https://github.com/topcoder-platform/thrive-submit/issues) for issues tagged [WIP] which will mean someone else is already working on the topic you want to write about__
